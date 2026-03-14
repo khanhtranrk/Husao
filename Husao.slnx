@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="App/App.csproj" />
+  <Project Path="Cli/Cli.csproj" />
+  <Project Path="Onm/Onm.csproj" />
+  <Project Path="Sii/Sii.csproj" />
+</Solution>

@@ -1,0 +1,5 @@
+version: 0.5
+
+processes:
+  deeria:
+    command: RUST_LOG=debug deeria --config ZDEBUG/deeria.toml

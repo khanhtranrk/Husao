@@ -1,0 +1,77 @@
+[
+  {
+    "pname": "HtmlAgilityPack",
+    "version": "1.12.4",
+    "hash": "sha256-58ohjvtRXFwfY46Hny9GWL2r6KwZzkJWHFXwIWjkaHU="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration",
+    "version": "10.0.4",
+    "hash": "sha256-oOKG5+BhzMxz9U4Cp4tbcL7SW58GMHKjKe1eMqo00k0="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Abstractions",
+    "version": "10.0.4",
+    "hash": "sha256-bvEQLGSOpJHKdPD6kd59IIi4x57lKapVMgOORtcjJPs="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Binder",
+    "version": "10.0.4",
+    "hash": "sha256-n7Ri6+w3JkGjsW6Ww4npljL/SNJBM1+oXxTaDR7ireo="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.FileExtensions",
+    "version": "10.0.4",
+    "hash": "sha256-rEmgvdLE+Mzgz3Ez+3HtrSOchSPPPj6DhbwvKwMIgAc="
+  },
+  {
+    "pname": "Microsoft.Extensions.Configuration.Json",
+    "version": "10.0.4",
+    "hash": "sha256-6qvKBF5eFKEnlgVPav4QROZae89Wcsk40Fmnx2LpZ9w="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection",
+    "version": "10.0.5",
+    "hash": "sha256-ofDRirUV9XLSz4oksCqErwBJFtAieHACFfyZukHKFng="
+  },
+  {
+    "pname": "Microsoft.Extensions.DependencyInjection.Abstractions",
+    "version": "10.0.5",
+    "hash": "sha256-KrP+hE3gk7pATbJYZsJ1LHiXjzLA+ntHW7G/VGgHk2g="
+  },
+  {
+    "pname": "Microsoft.Extensions.FileProviders.Abstractions",
+    "version": "10.0.4",
+    "hash": "sha256-kz920S6sTbb/QWYaLYCVtia9cI0EySg0uGIUHXZqiSY="
+  },
+  {
+    "pname": "Microsoft.Extensions.FileProviders.Physical",
+    "version": "10.0.4",
+    "hash": "sha256-g4HuNM8Hjc+xYR/fEaSenZA2xdkY+vbIHRV1NfPGjeI="
+  },
+  {
+    "pname": "Microsoft.Extensions.FileSystemGlobbing",
+    "version": "10.0.4",
+    "hash": "sha256-stiU7go3D7FKbgO1aX7QU/j7DAO3xfbqrVuysUFibIU="
+  },
+  {
+    "pname": "Microsoft.Extensions.Primitives",
+    "version": "10.0.4",
+    "hash": "sha256-ePpEFzrKQbEMY6Kh/xyxKHq6txNru62Vh4LVZO5Rrvg="
+  },
+  {
+    "pname": "Spectre.Console",
+    "version": "0.54.0",
+    "hash": "sha256-qlZQkT5KzACqJ1bLgBOylq9qO0L7XCh/RY8L8PnkpcU="
+  },
+  {
+    "pname": "Spectre.Console.Cli",
+    "version": "0.53.1",
+    "hash": "sha256-WN79g+F9jRsqXAwVFLYS/lfaQish2yFwL40GB/PpdTo="
+  },
+  {
+    "pname": "Spectre.Console.Cli.Extensions.DependencyInjection",
+    "version": "0.23.0",
+    "hash": "sha256-L1Mju6y365I1iC66lKX7usSQWrRMiz2UnYxo9HDW5Nw="
+  }
+]
