@@ -26,6 +26,8 @@ public sealed class MediaFileFetcher
         var body = await response.Content.ReadAsStringAsync();
         var json = JsonDocument.Parse(body);
 
+        Console.WriteLine(body.ToString());
+
         if (!json.RootElement.TryGetProperty("link", out var links) ||
             links.ValueKind is not JsonValueKind.Array ||
             links.GetArrayLength() == 0 ||
